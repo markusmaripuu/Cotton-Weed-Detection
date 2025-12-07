@@ -22,6 +22,6 @@ More specifically, our objectives are to:
 ---
 
 ## The Guide of the Notebook  
-For using the github repository - all you need to know is writen in COMPETITION_README.md file and cotton_weed_starter_notebook.ipynb Jupyter notebook fail.
+For using the github repository - all you need to know is writen in COMPETITION_README.md file and cotton_weed_starter_notebook.ipynb Jupyter notebook file.
 
 
